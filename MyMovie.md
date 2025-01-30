@@ -26,3 +26,12 @@ Here are a few actors that I think could play the main role in **RRR** besides *
 
 > "Success is not final, failure is not fatal: It is the courage to continue that counts."  
 *Winston Churchill*
+---
+
+## Code Fencing
+
+This code snippet demonstrates how to replace all negative numbers in a list with zero using a list comprehension in Python.
+
+```python
+l = [-1, 3, -4, 5, 6, -9]
+l = [x if x >= 0 else 0 for x in l]
