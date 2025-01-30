@@ -17,3 +17,12 @@ Here are a few actors that I think could play the main role in **RRR** besides *
 | **Prabhas**              | He has the physicality and presence that would suit the role perfectly. | 45  |
 | **Shah Rukh Khan**       | A versatile actor who can bring charm, depth, and emotion to the character. | 58  |
 | **Deepika Padukone**     | While not a male actor, she could bring a strong female lead with intensity and passion. | 38  |
+---
+
+## Favorite Quotes
+
+> "The best way to predict the future is to create it."  
+*Abraham Lincoln*
+
+> "Success is not final, failure is not fatal: It is the courage to continue that counts."  
+*Winston Churchill*
